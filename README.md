@@ -24,5 +24,9 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=k4m3kku5u&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true&hide_title=false" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4m3kku5u&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide_title=false"/>
 <!--START_SECTION:waka-->
-<img height="150em" width="800em"src="https://github-readme-stats.vercel.app/api/wakatime?username=k4m3kku5u&range=last_7_days&hide_border=false&hide_title=true"/>
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
