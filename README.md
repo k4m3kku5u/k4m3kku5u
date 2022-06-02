@@ -26,7 +26,10 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 2 hrs 29 mins
+
+Markdown   1 hr 46 mins    █████████████████▓░░░░░░░   71.25 %
+YAML       43 mins         ███████▒░░░░░░░░░░░░░░░░░   28.75 %
 ```
 
 <!--END_SECTION:waka-->
