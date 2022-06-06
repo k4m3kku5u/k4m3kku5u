@@ -26,13 +26,13 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 59 mins
+Total Time: 7 hrs
 
-Markdown   2 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   39.24 %
-C#         1 hr 34 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-CSS        58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-HTML       57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-YAML       43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Markdown   2 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   39.18 %
+C#         1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
+CSS        58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+HTML       57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+YAML       43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 CSHTML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
