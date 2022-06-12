@@ -26,9 +26,9 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 25 mins
+Total Time: 0 secs
 
-C#   1 hr 25 mins    █████████████████████████   100.00 %
+C#   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
