@@ -26,9 +26,11 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 mins
+Total Time: 5 mins
 
-C#   3 mins          █████████████████████████   100.00 %
+C#       3 mins          ████████████████▒░░░░░░░░   65.55 %
+Text     1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+CSHTML   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
 ```
 
 <!--END_SECTION:waka-->
