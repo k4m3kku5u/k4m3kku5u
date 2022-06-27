@@ -26,14 +26,13 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 39 mins
+Total Time: 37 mins
 
-JavaScript   26 mins         █████████████████░░░░░░░░   67.54 %
-CSHTML       6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-JSON         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-C#           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Text         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JavaScript   26 mins         ██████████████████░░░░░░░   71.53 %
+CSHTML       5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+JSON         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+C#           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
