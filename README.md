@@ -26,14 +26,14 @@ I am a Computer Scientist who is passionate about solving real world problems an
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 18 hrs 18 mins
+Total Time: 26 hrs 15 mins
 
-TypeScript   9 hrs           ████████████▒░░░░░░░░░░░░   49.12 %
-Python       7 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.01 %
-JSON         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-C#           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python       14 hrs 12 mins  █████████████▓░░░░░░░░░░░   54.01 %
+TypeScript   9 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.48 %
+JSON         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+C#           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Go           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Rust         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
