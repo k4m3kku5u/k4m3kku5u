@@ -4,7 +4,7 @@
 I am a Computer Scientist who is passionate about solving real world problems and the state of existing software rather than reinventing the wheel where it is not needed, but also about creating software that is extensible and capable of improving the user experience as well as user productivity where it matters most whilst supporting open-source. 
 
 * 🔭 Working on my personal projects and development team projects.
-* 📓 Learning Data Structure and Algorithm's on [leetcode]() for C#.
+* 📓 Learning Data Structure and Algorithm's on [leetcode]() for Go.
 * 💭 Open to all questions regarding development or philosophy.
 * 📬 To be added...
 * 🧑 He/Him. (Pronouns.)
@@ -13,10 +13,7 @@ I am a Computer Scientist who is passionate about solving real world problems an
 
 *Development Tools.* 🧰
 ---
-[![Generic badge](https://img.shields.io/static/v1?label=.Net%20Core&message=v3.1&color=blueviolet&style=for-the-badge&logo=visual-studio&style=flat)](https://shields.io/) 
-[![Generic badge](https://img.shields.io/static/v1?label=Microsoft%20365&message=2022%20&color=blueviolet&style=for-the-badge&logo=microsoft-office&style=flat)](https://shields.io/)
-[![Generic badge](https://img.shields.io/static/v1?label=Visual%20Studio%20Code%20&message=stable%20&color=blueviolet&style=for-the-badge&logo=visualstudio&style=flat)](https://shields.io/)
-[![Generic badge](https://img.shields.io/static/v1?label=Visual%20Studio&message=2022%20&color=blueviolet&style=for-the-badge&logo=visualstudio&style=flat)](https://shields.io/)
+
 
 
 *GitHub Statistics.* 📈
